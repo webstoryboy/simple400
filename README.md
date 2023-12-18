@@ -23,6 +23,6 @@ npm install aws-sdk@2.348.0 --save;
 npm install multer-s3@2.10.0 --save;      
 
 ## 문제 해결
-- client 폴더에 화살표 생길 때 : .git 폴더를 지운다.
-`rm -rf .git`
-`git rm --cached . -rf`# simple300
+- client 폴더에 화살표 생길 때 : .git 폴더를 지운다.   
+`rm -rf .git`   
+`git rm --cached . -rf`# simple300   
