@@ -11,6 +11,8 @@ npm install @emotion/styled
 npm install firebase   
 npm install react-redux   
 npm install @reduxjs/toolkit   
+npm install react-avatar
+npm install moment
 
 ## server
 npm init -y;   
